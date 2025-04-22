@@ -1,3 +1,18 @@
+# アプリの起動方法
+
+```
+初回のみ`npm i`を実行
+
+$ npm run dev
+
+```
+
+正常に起動したら
+
+http://localhost:5173/
+
+にアクセス
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
